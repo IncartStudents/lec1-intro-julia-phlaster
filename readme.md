@@ -5,6 +5,7 @@
 ## Уровень 0: Установка инструментов: vscode, Julia, git и github
 Пушим тестовый коммит в этот репозиторий. 
 - Сборник инструкций и материалов по Julia: https://docs.google.com/document/d/115vBKdhpop9s6SnmMY19l4edZeFX9g6vFNxvhswAiSI/edit
+* Установлена Julia через juliaup. Тестовый коммит.
 
 ## Уровень 1: Знакомимся с Julia
 Заполнить файл `level1_video.jl` - переписать примеры первого часа из видеолекции https://youtu.be/4igzy3bGVkQ. По желанию можно поменять значения и попробовать другие функции.
